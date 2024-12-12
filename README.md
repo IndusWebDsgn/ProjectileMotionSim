@@ -1,13 +1,6 @@
 # Projectile Motion Simulator
 A simple, interactive simulator to visualize projectile motion using JavaScript and HTML. This project allows users to simulate and observe the motion of a projectile under the influence of gravity, considering factors such as launch angle, initial velocity, and acceleration due to gravity.
 
-## Features
-
-- **Interactive Interface**: Users can input initial parameters such as velocity and launch angle.
-- **Real-time Simulation**: Watch the projectile's path as it is launched at different angles and velocities.
-- **Graphical Representation**: The trajectory is displayed on a canvas, providing a visual of the projectile’s motion.
-- **Adjustable Parameters**: Easily change parameters such as initial velocity, angle, and gravity to observe the effects on the projectile’s trajectory.
-
 ## How It Works
 1. The user inputs the initial velocity and launch angle.
 2. Using basic physics formulas, the JavaScript script calculates the projectile's position at different time intervals:
